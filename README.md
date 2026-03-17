@@ -15,6 +15,11 @@ The dataset used is the **IMDB Movie Reviews Dataset**, which contains:
   - Positive
   - Negative
 
+ This dataset available on Kaggle:
+
+👉 https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
+
 ---
 
 ## 🧹 Text Preprocessing
